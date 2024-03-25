@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WilliamBowley_U3O1-Folio1-2024/1.0.0": {
+        "runtime": {
+          "WilliamBowley_U3O1-Folio1-2024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WilliamBowley_U3O1-Folio1-2024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

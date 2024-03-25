@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "William Bowley Sac 1 Filo 2 - Time to Pay/1.0.0": {
+        "runtime": {
+          "William Bowley Sac 1 Filo 2 - Time to Pay.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "William Bowley Sac 1 Filo 2 - Time to Pay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
