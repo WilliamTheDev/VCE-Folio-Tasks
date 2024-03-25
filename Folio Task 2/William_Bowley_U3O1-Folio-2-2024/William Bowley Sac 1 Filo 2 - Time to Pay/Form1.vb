@@ -145,7 +145,7 @@ Public Class Time2Pay
 
         ' If no employees were found.
         If Not BolFound Then
-            MsgBox("Time2Pay: We do employ this person.")
+            MsgBox("Time2Pay: We don't employ this person.")
         End If
 
     End Sub
