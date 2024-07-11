@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Records>
+  <GUEST>
+    <GuestName>William</GuestName>
+    <NumTickets>10</NumTickets>
+    <AmountPaid>1000</AmountPaid>
+    <DietaryRequirements>Yes</DietaryRequirements>
+  </GUEST>
+</Records>
